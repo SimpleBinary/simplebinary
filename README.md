@@ -1,4 +1,4 @@
-<img src="Location.png" align="right" height="170px">
+<img src="Location.png" align="right" height="150px">
 <ul align="left">
 <li>Working on @yepic</li>
 <li>Working on @novar-table</li>
