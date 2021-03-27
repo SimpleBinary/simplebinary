@@ -2,7 +2,7 @@
 <ul align="left">
 <li>Working on @yepic</li>
 <li>Working on @novar-table</li>
-<li>Contemplating life</li>
+<li>Contemplating the existence of squirrels</li>
 <li>Listening to music</li>
 <li>Watching the world fall apart around me</li>
 </ul>
