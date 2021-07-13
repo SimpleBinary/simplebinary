@@ -1,7 +1,9 @@
-<img src="Location.png" align="right" height="150px">
+<img src="lemon-1.png" align="right" height="300px">
+<h1>SimpleBinary</h1>
+<p>Just another person who contemplates the existence of squirrels.</p>
 <ul align="left">
-<li>Working on @yepic</li>
 <li>Working on @lime-lang</li>
-<li>Contemplating the existence of squirrels</li>
-<li>Watching the world fall apart around me</li>
+<li>Remebering @yepic</li>
+<li>Contemplating too many things</li>
+<li>Realising that life changes rather fast</li>
 </ul>
