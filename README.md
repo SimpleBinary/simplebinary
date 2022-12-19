@@ -1,4 +1,4 @@
-<img src="Squirrel.png" align="right" height="300px">
+<img src="Squirrel.png" align="left" height="350px">
 <h1>SimpleBinary</h1>
 <p>Just another person who contemplates life</p>
 <ul align="left">
